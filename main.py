@@ -15,3 +15,5 @@ print(f"W sumie kupuję {total_products} produktów.")
 print("Udane zakupy")
 
 print(shopping_list)
+
+print("Kolejne zakupy za tydzien")
